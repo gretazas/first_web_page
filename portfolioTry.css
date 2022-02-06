@@ -145,6 +145,9 @@ ul li{
      color:rgb(134, 121, 47);
  }
 
+li :hover{
+     color:rgb(190, 233, 190);
+}
 .tooltip {
      position: relative;
      display: inline-block;
